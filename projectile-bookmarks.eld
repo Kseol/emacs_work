@@ -1,0 +1,1 @@
+("~/cl/demo/" "~/git_som/emacs_home/" "~/cl/sam2/sample2/" "~/.emacs.d/" "~/cl/testtt/")
