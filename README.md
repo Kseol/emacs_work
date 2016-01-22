@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tomorrow Theme
 
 [![Flattr this](http://api.flattr.com/button/flattr-badge-large.png)](http://flattr.com/thing/814991/chriskempsontomorrow-theme-on-GitHub)
@@ -128,3 +129,6 @@ Released under the [MIT License](https://github.com/chriskempson/tomorrow-theme/
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chriskempson/tomorrow-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+=======
+# emacs_work
+>>>>>>> cc557c617ae3c11fbe166178aa4d8543f5c73a46
